@@ -1,7 +1,7 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'page-background-image',
+  selector: 'app-page-background-image',
   templateUrl: './page-background-image.component.html',
   styleUrls: ['./page-background-image.component.css']
 })
